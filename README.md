@@ -1,6 +1,6 @@
 # Get to know LCA 
 
-This repo is created based on the https://github.com/dasirra/latent-class-analysis.
+The major refernence of this repo is: https://github.com/dasirra/latent-class-analysis.
 
-The goal of creating this repo is to have myself get familiar with this analysis method. 
+The goal of creating this repo is to get a hands-on experience with the simplest LCA.  
 
